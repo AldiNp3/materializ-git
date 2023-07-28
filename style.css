@@ -1,0 +1,14 @@
+.slider h3,
+.slider h5,
+.client h3 {
+    text-shadow: 4px 4px 3px rgba(0,0,0,0,.7);
+}
+
+.parallax-container {
+    height: 240px;
+}
+
+.parallax img{
+    filter: grayscale(1);
+    opacity: 0.6 !important;
+}
